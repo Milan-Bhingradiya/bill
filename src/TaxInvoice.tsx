@@ -180,7 +180,7 @@ export default function TaxInvoice() {
                   <div> FSSAI No.:</div>
                 </div>
               </div>
-              <div className="flex flex-row ml-2 gap-2 mt-2">
+              <div className="flex flex-row ml-2   gap-2 mt-2">
                 <div>
                   <div> Balance : {invoiceData.customer.balance}</div>
                   <div>D/L No.:</div>
