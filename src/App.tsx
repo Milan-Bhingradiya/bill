@@ -1,10 +1,10 @@
 import './App.css'
-import P1 from './p1'
+import TaxInvoice from './TaxInvoice'
 
 function App() {
   return (
     <>
-   <P1/ >
+   <TaxInvoice/ >
     </>
   )
 }
